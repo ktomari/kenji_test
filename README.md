@@ -5,3 +5,7 @@ This is a test repo
 
 - Create a remote repo on GitHub
 - Practice git workflow
+
+## Creator
+
+PhD student in Geography. I use he/him/his pronouns.
