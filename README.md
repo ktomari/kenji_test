@@ -1,5 +1,5 @@
 
-# DELTA NCEAS THING
+# DELTA NCEAS
 
 This is a test repo
 Eric added this!
