@@ -1,5 +1,4 @@
-
-# DELTA NCEAS THING 3
+# DELTA NCEAS
 
 This is a test repo
 Eric added this!
