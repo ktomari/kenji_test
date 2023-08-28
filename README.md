@@ -1,4 +1,4 @@
-# kenji_test
+# Kenji's kickass repo
 This is a test repo
 Eric added this!
 
