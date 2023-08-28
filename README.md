@@ -1,5 +1,6 @@
 # kenji_test
 This is a test repo
+Eric added this!
 
 ## Purpose
 
